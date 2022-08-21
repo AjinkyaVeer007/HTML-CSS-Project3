@@ -1,4 +1,4 @@
-# Food Restaurant Home Page
+# Law Home Page
 
 This is basically a one pager Template project made in HTML/CSS.
 It is responsive for any mobile devices.
@@ -10,7 +10,7 @@ It is responsive for any mobile devices.
 
 ### Netlify-link -
 
-- [Food Restaurant Home Page - Netlify](https://html-css-project002.netlify.app/)
+- [Law Home Page - Netlify](https://html-css-project003.netlify.app/)
 
 ## Author-Contact
 
